@@ -1,8 +1,8 @@
 # EasyDedupe
-Easily remove redundant files.
+Easily remove redundant files, and Free up gigabytes of disk space.
 
 ## Usage
-Just download EasyDedupe.exe from [releases](https://github.com/wensheng/EasyDedupe/releases) and run it.
+Just download [EasyDedupe.zip](https://github.com/wensheng/EasyDedupe/files/1117039/EasyDedupe.zip), extract and run.
 
 There are two modes of operation: one is 'single folder mode', the other is 'double folder mode' (default).
 <img src="img/mode1.png" width=400 />    <img src="img/mode2.png" width=400 />
