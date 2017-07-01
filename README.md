@@ -5,7 +5,7 @@ Easily remove redundant files.
 Just download EasyDedupe.exe from [releases](https://github.com/wensheng/EasyDedupe/releases) and run it.
 
 There are two modes of operation: one is 'single folder mode', the other is 'double folder mode' (default).
-<img src="img/mode1.png" width=450 /> <img src="img/mode2.png" width=450 />
+<img src="img/mode1.png" width=400 />    <img src="img/mode2.png" width=400 />
 
 In single folder mode, you select a single folder, when you click "Delete Duplicates!!" button, EasyDedupe will find redundant files and delete them.
 
